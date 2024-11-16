@@ -557,12 +557,12 @@ P(X ≤ s / y) =
 
 Для s < 1:
 
-``` 
-f_ξ(s) = -ln(s) - 1
+```markdown
+f<sub>ξ</sub>(s) = -ln(s) - 1
 ```
 
 Для s > 1:
-```
+```markdown
 f<sub>ξ</sub>(s) = 0
 ```
 
